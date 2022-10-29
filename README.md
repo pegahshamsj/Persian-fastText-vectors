@@ -3,7 +3,7 @@
  <br/>
 Here we trained fastText on a huge Persian dataset. The dataset is available [here](https://github.com/persiannlp/persian-raw-text).
 <br/>
-Generated vectors contain about 6742635 words. Each word is a vector of dimensions 300.
+Generated vectors contain about 6742635 words. Each word is a vector of dimension 300.
 <br/>
 We used cbow model for computing word representations.
 <br/>

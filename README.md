@@ -12,3 +12,5 @@ We used cbow model for computing word representations.
 You can also reduce the dimension if you needed.
 <br/>
 More instructions is provided [here](https://fasttext.cc/docs/en/support.html).
+<br/>
+Pre-trained embedding vectors are available at [link](https://www.kaggle.com/datasets/pegahshams/persian-fasttext-vectors-trained-on-70g-data).

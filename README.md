@@ -13,6 +13,6 @@ You can also reduce the dimension if you needed.
 <br/>
 More instructions are provided [here](https://fasttext.cc/docs/en/support.html).
 <br/>
-Pre-trained embedding vectors are available at [link](https://www.kaggle.com/datasets/pegahshams/persian-fasttext-vectors-trained-on-70g-data) cbow model.
+-Pre-trained embedding vectors are available at [link](https://www.kaggle.com/datasets/pegahshams/persian-fasttext-vectors-trained-on-70g-data) cbow model.
 <br/>
-Pre-trained model is available at [link](https://www.kaggle.com/datasets/pegahshams/persian-fasttext-model-trained-on-70g-data-cbow) cbow model.
+-Pre-trained model is available at [link](https://www.kaggle.com/datasets/pegahshams/persian-fasttext-model-trained-on-70g-data-cbow) cbow model.
